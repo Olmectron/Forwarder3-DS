@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">Forwarder3-DS</string>
+    <string name="open_files">Open files</string>
+    <string name="nds_files">NDS files</string>
+    <string name="change_ds">Change DS/DSi</string>
+    <string name="change_ds">Change DS/DSi</string>
+    <string name="remove">Remove</string>
+    <string name="dat_name">DAT Name</string>
+    <string name="game_path">Game path</string>
+    <string name="dstwo">SuperCard DSTWO</string>
+    <string name="game_title">Game title</string>
+    <string name="ds_normal">DS standard</string>
+    <string name="dsi_enhanced">DSi enhanced</string>
+    <string name="success_process">Success!</string>
+    <string name="version">v2.9.6</string>
+    <string name="r4_card">Original R4/M3 Simply</string>
+    <string name="dstt_card">DSTT/R4i Gold/R4i-SDHC/SC DSONE</string>
+    <string name="keep_ds">Keep NDS files</string>
+    <string name="keep_ds_detail">Select whether to mantain or not the generated NDS files after generating the CIAs</string>
+    <string name="connection_failed">Connection to update server failed</string>
+    <string name="check_update">Check for updates</string>
+    
+    <string name="update">Update</string>
+    <string name="update_available">New update available </string>
+    <string name="retrieve_update">Getting update files</string>
+    <string name="already_updated">Your app is already updated</string>
+    <string name="shuffle_tid">Shuffle TID</string>
+   <string name="r4idsn_card">R4iDSN/R4i Gold RTS</string>
+   <string name="acekard_rpg">Acekard RPG</string>
+   <string name="blue">Ace3DS/Gateway Blue Card</string>
+</resources>
+

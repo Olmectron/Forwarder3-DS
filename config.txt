@@ -1,0 +1,8 @@
+language=english
+transfer_mode=new
+update=true,true,true,false
+buffersize=256
+first_time=false
+ip=192.168.0.13
+savelog=true
+lastdir=C:\Users\Edgar\Documents\NetBeansProjects\Forwarder3-DS

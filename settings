@@ -1,0 +1,9 @@
+show_update_notes=false
+background_file=Zelda.jpg
+keep_nds_files=true
+auto_update_template=true
+auto_correct_tid=false
+files_from_card=true
+roms_on_3ds=false
+roms_on_flashcard=true
+card_type=ace_rpg

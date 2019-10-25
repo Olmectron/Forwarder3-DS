@@ -1,3 +1,15 @@
+/build
+/dist
+/backgrounds
+/.forwarders
+/storage
+/store
+/test
+/build.bat
+/build_cia.bat
+/make_cia.exe
+/ndstool.exe
+
 # Compiled class file
 *.class
 
@@ -11,7 +23,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
