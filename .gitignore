@@ -9,6 +9,7 @@
 /build_cia.bat
 /make_cia.exe
 /ndstool.exe
+/generated
 
 # Compiled class file
 *.class
