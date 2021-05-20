@@ -260,8 +260,8 @@ public static Boolean getAutoUpdateTemplates(){
         public static StringProperty dat_name=LanguageReader.getProperty("dat_name");
         public static StringProperty game_path=LanguageReader.getProperty("game_path");
         public static StringProperty success_process=LanguageReader.getProperty("success_process");
-        public static StringProperty ds_normal=LanguageReader.getProperty("ds_normal");
-        public static StringProperty dsi_enhanced=LanguageReader.getProperty("dsi_enhanced");
+        public static StringProperty ntr=LanguageReader.getProperty("ntr");
+        public static StringProperty twl=LanguageReader.getProperty("twl");
         
         public static StringProperty version=LanguageReader.getProperty("version");
         public static StringProperty r4_card=LanguageReader.getProperty("r4_card");

@@ -11,8 +11,8 @@
     <string name="game_path">Game path</string>
     <string name="dstwo">SuperCard DSTWO</string>
     <string name="game_title">Game title</string>
-    <string name="ds_normal">DS standard</string>
-    <string name="dsi_enhanced">DSi enhanced</string>
+    <string name="ntr">NTR</string>
+    <string name="twl">TWL</string>
     <string name="success_process">Success!</string>
     <string name="version">v2.9.6</string>
     <string name="r4_card">Original R4/M3 Simply</string>
