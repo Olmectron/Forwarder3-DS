@@ -430,7 +430,7 @@ String color=Hex.getHexPair(R)+Hex.getHexPair(G)+Hex.getHexPair(B);
         if(b==0){
             return Hex.NTR;
         }
-        else if(b==2){
+        else if(b==2 || b==3){
             return Hex.TWL;
         }
         return 0;
@@ -1400,9 +1400,9 @@ ProcessBuilder pb;
     public String getModeDescription(){
         switch(getMode()){
             case Hex.NTR:
-                return R.strings.ds_normal.get();
+                return R.strings.ntr.get();
             case Hex.TWL:
-                return R.strings.dsi_enhanced.get();
+                return R.strings.twl.get();
                 
         }
         return null;
